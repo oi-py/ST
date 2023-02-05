@@ -1,2 +1,2 @@
 # ST
-ST Table
+ST Table(1D)
